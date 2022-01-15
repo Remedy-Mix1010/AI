@@ -1,0 +1,40 @@
+#heading_div{
+    background-color: #74a6e8;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border: double;
+    border-color: white;
+}
+body{
+    background-color: #5782ba;
+    text-align: center;
+    font-family: 'Coming Soon', cursive;
+}
+#fp{
+    text-align: left;
+    margin-right: 500px;
+}
+#robo1{
+    width: 300px;
+    height: 400px;
+    margin-left: 740px;
+    border: double;
+    border-color: white;
+    border-width: 10px;
+}
+#yes{
+    background-color: #74a6e8;
+    border-radius: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+    border-color: white;
+}
+#no{
+    background-color: #74a6e8;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+    border: double;
+    border-color: white;
+}
